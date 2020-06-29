@@ -3,10 +3,12 @@
 ## Area.sh
 
 ### Flowchart
-![test](https://user-images.githubusercontent.com/22475630/86044693-1ffdcc80-ba53-11ea-88fb-392f39ed10d9.png)
+
+![area_flowchart](https://user-images.githubusercontent.com/22475630/86043944-10ca4f00-ba52-11ea-830c-8ab925c031b5.png)
+
  
 ### Result 
-![area_flowchart](https://user-images.githubusercontent.com/22475630/86043944-10ca4f00-ba52-11ea-830c-8ab925c031b5.png)
+![test](https://user-images.githubusercontent.com/22475630/86044693-1ffdcc80-ba53-11ea-88fb-392f39ed10d9.png)
 
 
 
