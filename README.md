@@ -2,9 +2,7 @@
  
 ## Area.sh
 
-### Flowchart
 
-![area_flowchart](https://user-images.githubusercontent.com/22475630/86043944-10ca4f00-ba52-11ea-830c-8ab925c031b5.png)
 
  
 ### Result 
@@ -16,12 +14,7 @@
  
  ## salesbonus.sh
 
-### Flowchart 1
-![sales bonus_1](https://user-images.githubusercontent.com/22475630/86044721-2c822500-ba53-11ea-8e22-b5220d061101.png)
-
-### Flowchart 2
-  
-![sales_bonus_2](https://user-images.githubusercontent.com/22475630/86044731-30ae4280-ba53-11ea-865c-49277610c89a.png)
+A Unix Bash  script to calculate the bonus for a salesperson by implementing bubblesort. 
 
 ### Result
 
